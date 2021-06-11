@@ -1,8 +1,0 @@
-1-Es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente. Su propósito es llevar registro de los cambios en archivos de computadora incluyendo coordinar el trabajo que varias personas realizan sobre archivos compartidos en un repositorio de código.
-
-
-2-A nadie debería sorprender, aunque si entretener, que tras la compra de GitHub por parte de Microsoft por la nada despreciable suma de 7.500 millones de dólares, Google haya decidido invertir en GitLab, la plataforma que sin dudas se perfila como el principal competidor de GitHub.
-
-No debería sorprender porque al poco tiempo de la compra, supimos que Google también había estado interesada en hacerse con GitHub, y mientras Microsoft espera por el sí de la Unión Europea para terminar la transacción, Alphabet, la empresa madre de Google está ayudando a GitLab a alcanzar una valoración de 1.000 millones de dólares.
-
-3-Se puede usar en el navegador
