@@ -1,0 +1,6 @@
+a. Github fue desarrollado por Chris Wanstrath, P. J. Hyett, Tom Preston-Werner y Scott Chacon, 
+para poder alojar proyectos utilizando el sistema de control de versiones.
+
+b. Pertenece a Microsoft, me imagino porque crecia github y por 7500 millones
+
+C. Si desde GUI o usando plugins en los IDEs
