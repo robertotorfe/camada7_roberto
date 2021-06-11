@@ -1,0 +1,11 @@
+¿Quién inventó el sistema de control de versión Git y por qué?
+Git es un sistema de control de versiones distribuido que fue creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux. Git es un software escrito en C, con interfaz por línea de comandos, disponible para Windows, MacOS X y GNU/Linux.
+¿A quién pertenece actualmente Github y por qué?
+El 4 de junio de 2018 Microsoft compró GitHub por la cantidad de 7500 millones de dólares​​, al inicio el cambio de propietario generó preocupaciones y la salida de algunos proyectos de este repositorio​, sin embargo no fueron representativos.
+¿Hay otra forma que no sea la terminal para trabajar con Github?
+Nos estamos dejando en el tintero muchas otras características de Git como:
+Crear repositorios públicos y privados
+El trabajo con branchs que es bastante fácil y dinámico.
+Los parches que se pueden convertir en una potente herramienta para compartir cambios.
+El “stashing” que nos permite guardar el estado actual, por ejemplo para resolver un bug puntual, y luego recuperar el estado que teníamos, gestión del histórico.
+Git hooks
