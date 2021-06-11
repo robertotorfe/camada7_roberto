@@ -1,0 +1,63 @@
+Comandos Git
+
+git --version / Para saber cuál es la versión que tiene mi máquina
+
+git init / Genera un repositorio local en la carpeta donde estoy parado
+
+git config user.name “mi-usuario” / Para indicarle mi nombre de usuario a un repositorio (con el que me registré en GitHub)
+
+git config user.email “mi-email” / Para indicarle mi e-mail a un repositorio (con el que me registré en GitHub)
+
+git config --global user.name “mi-usuario” / Para indicarle mi nombre de usuario a todos los repositorios que tenga
+
+git config --global user.name “mi-usuario” / Para indicarle mi e-mail a todos los repositorios que tenga
+
+git remote add origin url-repositorioRemoto / Para indicarle a mi repositorio local con qué repositorio remoto deberá sincronizarse
+
+git remote -v / Para verificar que mi repositorio local se verificó OK con mi repositorio local
+
+git add archivo / Para agregar un archivo dentro de una carpeta que tiene un repositorio inicializado
+
+git add . / Para agregar todos los archivos presentes en el repositorio (nuevos o que hayan sufrido cambios)
+
+git status / Me dice el status de mis archivos y el estado de los mismos respecto al repositorio
+
+git commit -m “mensaje” / Para agregar un commit a mi proyecto con los cambios que realicé, seguido de un mensaje con la descripción de estos cambios
+
+git log / Registra un historial de nuestros cambios de los proyectos (un historial de nuestros commits)
+
+git push / Solicita a git que envíe los cambios que tengo en los archivos de mi repositorio local al repositorio remoto
+
+git push -u origin master / Se utiliza para hacer el primer push de un repositorio y que me configure los datos de usuario que tengo en GitHub con mi repositorio local
+
+git push origin master / Solicita a git que envíe los archivos que tengo en mi repositorio local al repositorio remoto (llamado origin) y que, adicionalmente, se posicionen en la rama principal llamada master
+
+git clone urlRepositorioRemoto / Descarga un repositorio remoto localmente a mi computadora por primera vez. Me permite hacer una copia exacta en la computadora de todos los archivos existentes en un repositorio remoto. Se ejecuta una sola vez
+
+git pull origin master / Para bajar y/o actualizar en mi computadora todos los archivos que hayan sufrido algún tipo de modificación o sean nuevos en el repositorio remoto (master) - Actualizar repositorio local respecto del remoto
+
+git branch / Me dice en qué branch estoy parado
+
+git branch -a / Enumera todas las ramas de tu repositorio, es similar a git branch --list
+
+git branch nombreBranch / Crea una nueva rama llamada nombreBranch
+
+git branch -d nombreBranch / Elimina la rama llamada nombreBranch. Git evita que eliminemos la rama si tiene cambios que aún no se han fusionado con la rama Main
+
+git branch -D nombreBranch / Fuerza la eliminación de la rama especificada, incluso si tiene cambios sin fusionar.
+
+git checkout -b nombreBranch / Crea una nueva rama llamada nombreBranch y me mueve a esa rama al mismo tiempo
+
+git checkout nombreBranch / Para moverse de una rama a otra. Git solo permitirá que nos movamos a otra rama si no tenemos cambios. Si tenemos cambios, para cambiarnos de rama, debemos eliminar los cambios o commitearlos
+
+git push origin nombreBranch / cuando queramos subir esos cambios, debemos utilizar git push con el nombre de la rama en que estamos posicionados
+
+git pull origin nombreBranch / cuando queramos traer los cambios de la rama en que estamos posicionados
+
+git restore aDondeQuieroVolver / para volver atrás (puede ser al nombre de un archivo o al hash de un commit
+
+git fetch / para traerme los cambios remotos a mi computadora
+
+git fetch && git checkout nombreBranch / me busca una rama remota, me trae sus cambios y me posiciona en esa rama
+
+git merge / para meter otro branch adentro del mío
