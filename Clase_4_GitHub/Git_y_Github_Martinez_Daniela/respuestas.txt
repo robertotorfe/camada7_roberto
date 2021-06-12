@@ -1,0 +1,5 @@
+a. Linus Torvalds inventó Git. Buscaba un sistema distribuido que pudiera usar en forma semejante a BitKeeper, pero ninguno de los sistemas bajo software libre disponibles cumplía con sus requerimientos, especialmente en cuanto a desempeño.
+
+b. Actualmente, Github pertenece a Microsoft. Una de sus razones es lograr un acercamiento a la comunidad del desarrollo de software libre y abierto. Además, Microsoft tiene que competir con Amazon con AWS.
+
+c. Se puede trabajar con Github sin ayuda de la terminal subiendo los archivos y carpetas manualmente desde la nube.
