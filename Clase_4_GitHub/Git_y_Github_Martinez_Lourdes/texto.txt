@@ -1,0 +1,3 @@
+a) Fue creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux.
+b) Github pertenece a Microsoft, porque lo compró en el año 2018 porque tenían buenas perspectivas del sitio y querían acercarse al concepto de software libre.
+c) Sí, se puede utilizar desde el sitio web (una interfaz gráfica del usuario).
