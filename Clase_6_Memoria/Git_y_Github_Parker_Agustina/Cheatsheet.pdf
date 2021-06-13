@@ -1,0 +1,43 @@
+git add "nombre del archivo" // adhiere un archivo / agregar a seguimiento
+git add . // adhiere todos los archivos/ guarda los cambios
+git config user.name "nombreUsuario" // agega nuestra identidad
+git config user.email "nombreUsuario@email.com" // agrega nuestro email
+cd // entrar a la carpeta
+cd .. // vuelve a la carpeta anterior
+git checkout nombredelarchivo// cambio de directorio
+clear // limpia la pantalla
+git clone "linkdelrepoaclonar"// crea una copia exacta en la computadora de todos los archivos existentes en un repositorio remoto. con la url exacta del repositorio a clonar.  
+git commit -m "comentario del archivo" // guarda los archivos en el repositorio, el comentario debe ser lo mas claro posible
+git commit --amend -m "nuevomensaje" //cambia los mensajes del commit
+git fetch // obtener los cambios, pero no aplicarlos a la branch actual
+git init // crea un nuevo repositorio
+ls // listar los archivos de la carpeta
+git merge // une un mismo archivo modificado por varias personas
+mkdir "nombre de la careta" // crear una carpeta
+mv // mueve o cambia el nombre de un archivo 
+git remote add origin http:/....// Apunta al repositorio remoto
+git remote -v // comprueba la sincronización con Github
+git restore // restaura los cambios 
+git reset HEAD //cuando queremos volver a un commit anterior, si queremos volver a mas de un commit, debemos poner el numero de commits despues de HEAD.
+rm nombre // borrar archivo
+rm -r "nombre de la carpeta" // remover la carpeta y sus archivos
+rm -rf nombre //borrar de forma forzada las carpetas y archivos que contiene
+git rm --cached //git no realizar seguimiento a un archivo
+git push origin master // envia los cambios al repositorio remoto
+git pull origin master// Descarga los cambios que existen en el repositorio remoto
+git status // realiza un seguimiento del estado del proyecto
+git touch "nombre del archivo" // cear un archivo
+
+Untracked // sin seguimiento
+Tracked // en seguimiento
+Modificado // Git reconoce que hubo cambios
+Stage area // Listo para commit
+
+repositorio local // en la computadora
+repositorio remoto ("remote")  // en GitHub
+
+Commit // Seguimiento de los cambios que se van realizando en los proyectos. un commit tiene fecha, autor y mensaje.
+
+El master es la branch principal de Git. El HEAD por defecto es la branch principal.
+
+
