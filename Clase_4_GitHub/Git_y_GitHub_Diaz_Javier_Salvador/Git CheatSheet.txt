@@ -1,0 +1,9 @@
+Iniciar un repo: git init
+Clonar un repo: git clone {repoUrl}
+Agregar los archivos nuevos y modificados: git add
+Hacer un commit: git commit -m ""
+Actualizar la rama local: git pull
+Subir nuevos cambios a la rama remota: git push
+crear una nueva rama: git branch rama
+cambiar de rama: git checkout rama
+crear una nueva rama y cambiar automaticamente a ella: git checkout -b rama
