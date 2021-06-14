@@ -1,0 +1,10 @@
+¿Quién inventó el sistema de control de versión Git y por qué?
+El VCS Git lo invento Linus Torvalds para dar respuesta a los problemas que no habian solucionados los VCS de segunda generacion
+como la modificacion simultanea de un mismo archivo, y esto lo logro a partir de la resolucion de conflictos en el merge.
+
+¿A quién pertenece actualmente Github y por qué?
+Actualmente pertenece a Microsoft.
+
+¿Hay otra forma que no sea la terminal para trabajar con Github?
+Hay varias formas de trabajar con GitHub sin contar a la terminal, por ejemplo la interfaz web del sitio, GitKraken,
+los plug ins de VSCode o de los otros IDEs com intelliJ o Eclipse.

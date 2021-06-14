@@ -1,3 +1,0 @@
-A. Fue creado por Linus Torvalds en 2005 para el desarrollo de Linux.
-B. Actualmente pertenece a Microsoft aunque aseguran que Github mantendrá su enfoque propio, gratuito  de versionado de repositorio.
-C.Si hay otras formas, desde la web, desde el software y sigue siendo terminal pero desde Visual o cualquier IDE.
