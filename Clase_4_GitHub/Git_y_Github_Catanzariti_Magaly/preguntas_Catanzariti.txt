@@ -1,6 +1,6 @@
 ¿Quién inventó el sistema de control de versión Git y por qué?
 
-<dinar el trabajo que varias personas realizan sobre archivos compartidos en un repositorio de código.
+Git es un software de control de versiones diseñado por Linus Torvalds. Su propósito es llevar registro de los cambios en archivos de computadora incluyendo coordinar el trabajo que varias personas realizan sobre archivos compartidos en un repositorio de código
 
 ¿A quién pertenece actualmente Github y por qué?
 
