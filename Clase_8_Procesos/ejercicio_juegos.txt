@@ -1,0 +1,26 @@
+grupo 9 
+Enunciado:
+Nuestro grupo de amigos adquirió una PSP con un disco de 6GB y queremos instalarle la
+mayor cantidad de juegos posibles de una lista de 15 juegos que armamos entre todos.
+
+God Of War: Chains Of Olympus         1,2 GB
+Driver                              491,4 MB
+Need For Speed Carbon                 121 MB
+Burnout Dominator                     682 MB
+MotorStorm Artic Edge                 752 MB
+Midnight Club 3: DUB Edition          1,5 GB
+Crash Tag Team Racing                 834 MB
+Plants vs. Zombies                      2 MB
+Metal Slug Anthology                  663 MB
+Resident Evil 3: Nemesis              363 MB
+Grand Theft Auto: Vice City Stories   1,2 GB
+FIFA 12                              1,21 GB
+PES 2013                              975 MB
+Coded Arms                           49,8 MB
+Street Fighter 3 Alpha Max           78,2 MB
+
+En la consola entran todos los juegos menos:
+God Of War: Chains Of Olympus
+Midnight Club 3: DUB Edition
+Grand Theft Auto: Vice City Stories
+FIFA 12
