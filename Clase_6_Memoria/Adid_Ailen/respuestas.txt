@@ -1,0 +1,10 @@
+A)Git es un sistema de control de versiones inventado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente.
+
+B)Github es una plataforma para alojar proyectos utilizando el sistema de control de versiones Git, le pertenece a Microsoft, empresa que compró GitHub por la cantidad de 7500 millones de dólares.
+
+C)Existen herramientas de interfaz gráfica que permiten visualizar de manera más amigable con el usuario las ramas y el flujo de trabajo del proyecto en Git. Entre las interfaces gráficas más populares se encuentran:
+
+GitKraken
+Sourcetree
+GitHub Desktop
+Fork
