@@ -1,0 +1,3 @@
+Cyberpunk 2077: AMD Ryzen 5. Especificaciones para soportar un juego gamer.
+Suite de Office: AMD a8. GPU integrado en la CPU. No tiene alta capacidad de procesamiento para gráficas, lo suficiente para el entorno suite Office
+Wondershare Filmora X: Intel i3 3230. Recomendado intel Core i3, Core i5, etc...
