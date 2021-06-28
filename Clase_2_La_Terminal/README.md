@@ -1,1 +1,2 @@
 # camada7_roberto
+Creacion de carpetas anidadas y archivos usando la terminal git-bush. Renomambramos archivos y movimos de un lugar a otro dichos archivos para hacerlos coincidir según su genero (nombre de películas)
