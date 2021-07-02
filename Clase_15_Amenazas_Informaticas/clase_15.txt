@@ -1,0 +1,4 @@
+1) Clone el repositorio de la camada 7 en la maquina virtual
+2) apt-get es un programa de gestion de paquetes que simplifica la instalacion y eliminacion de programas en los sistemas GNU/Linux
+3) su permite utilizar el interprete de comandos de otro usuario sin necesidad de cerrar la sesion actual
+4) Muy familiar no, pero espero que me vaya acostumbrando con el tiempo. Me gusta mucho la idea de saber que si se rompe algo ac{a se vuelve a generar la maquina virtual y listo
