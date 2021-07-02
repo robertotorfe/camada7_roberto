@@ -1,0 +1,6 @@
+1. Chequeamos la conexión de internet, cambiamos al superusuario (root) a traves del
+ comando du para luego instalar el programa git para poder clonar el directorio remoto de la clase. 
+2. El comando apt-get se utiliza en los sistemas Debian para gestionar paqutes instalables en los repositorios.
+3. Utilizamos el comando su para cambiar de usuario en la terminal en los sistemas UNIX
+4. Nunca habia utilizado las maquinas virtuales pero si me resulto familiar el manejo en la terminal, por lo que no hubo problemas.	
+
