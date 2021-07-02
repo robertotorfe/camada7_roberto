@@ -1,0 +1,11 @@
+1)chequeamos la conexion a internet de nuestra maquina virtual
+descargamos git en la terminal de la maquina virtual con el comando apt-get install git
+clonamos el repositorio remoto a nuestra maquina virtual
+cambiamos a nuestra rama
+creamos una rama
+
+2)apt get sirve para administrar los  paquetes, por ejemplo el apt get install nos permite instalar programas
+
+3)su sirve para cambiar de usuario, reemplaza las palabras switch user
+
+4)la verdad que no me resulto ni familiar, ni facil, esta forma de conectarme en equipo
