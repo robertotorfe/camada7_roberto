@@ -1,0 +1,4 @@
+Instalar git y verificar si la url nos devuelve una respuesta
+No da acceso a los paquetes para poder actualizar o install
+Su sirve para acceder al root
+Si, me resulto familiar
