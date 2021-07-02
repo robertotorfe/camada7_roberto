@@ -1,1 +1,5 @@
-agregar respuestas
+1-comprobamos la conexion con el comando ping, instalamos git en la maquina virtual, clonamos el repositorio de la camada y creamos el archivo tarea.txt
+2-apt-get sirve para instalar paquetes o chequear actualizaciones de los mismos
+3- su significa super usuario, permite hacer cambios en el sistema o aplicaciones que requieran permisos especiales
+4- me parecio muy similar a usar git desde la terminal de windows
+
