@@ -1,0 +1,4 @@
+1 Descargamos git para poder sincronizar nuestro repositorio remoto, nos posicionamos en nuestra rama y clonamos el repositorio remoto.
+2 Apt-get sirve para descargar aplicaciones (advanced packages tools)
+3 Es un superusuario que sirve para obtener permisos de root para operaciones administrativas sin tener que salir y reentrar al sistema
+4 Nos costo mucho acostumbrarnos a la terminal de linux para usar git 
