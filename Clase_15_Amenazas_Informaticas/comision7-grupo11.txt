@@ -1,0 +1,12 @@
+1)lo primeros que hicimos fue instalar la linea de comando de GIT
+luego clonamos el repositorio, desde el usuario root. y Luego ingresamos
+ a la carpeta Clase_15 y creamos este archivo.
+
+2) el apt-get sirve para descargar GIT. Apt es un gestor paquetes.
+
+3) el comando SU sirve para elevar los permisos de nuestro usuario y 
+convertirnos en el usuario Root (lo entendemos como un usuario de clase Admin)
+
+4)No.
+
+Integrantes: Gagliardo wurch Zaragoza Landra   
