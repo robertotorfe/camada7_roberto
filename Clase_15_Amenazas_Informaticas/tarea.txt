@@ -1,0 +1,4 @@
+1. comprobamos la conexion con el comando ping, instalamos git en la virtual box, clonamos el repositorio y creamos el archivo de texto tarea.txt
+2. apt get sirve para instalar paquetes o chequear actualizaciones
+3. su significa super usuario. sirve para hacer cambios en el sistema, o aplicaciones que requieran permisos especiales
+4. me parecio muy similar a la terminal de windows 
