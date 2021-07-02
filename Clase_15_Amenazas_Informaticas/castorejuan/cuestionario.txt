@@ -1,0 +1,14 @@
+*que hicimos:
+-primero chequeamos que tuvieramos internet
+-entramos al superusuario y luego  instalamos git
+-chequeamos la version de git
+-clonamos la mochila
+-entramos a la clase 15
+-creamos este archivo 
+
+apt-get es el comando de debian para instalar, borrar  o actualizar programas en linux
+
+su sirve para insertar comandos en otro usuario sin cerrar sesion
+
+si nos resulto familiar
+
