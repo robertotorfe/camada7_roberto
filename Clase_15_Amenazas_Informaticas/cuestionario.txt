@@ -1,0 +1,4 @@
+1. Instale github en el sistema operativo debian de mi maquina virtual
+2.apt-get sirve para descargar aplicacion a traves de la terminal
+3. su sirve para pasar a superusuario y realizar actividades administrativas
+5. si, lo haciamos con nuestra maquina fisica cuando empezamos a trabajar con git
