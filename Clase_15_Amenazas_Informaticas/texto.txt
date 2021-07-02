@@ -1,0 +1,4 @@
+1. Primero clonamos nuestro repositorio remoto en la maquina virtual y luego fuimos a nuestra rama
+2. Sirve para dar comandos a la terminal como install o update
+3. Sirve para cambiar al superusuario
+4. Los comandos son similares a los usados en bash
