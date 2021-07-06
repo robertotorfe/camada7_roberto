@@ -1,0 +1,7 @@
+1- Instalamos Git Hub,clonamos el repositorio remoto, vinculamos la cuenta GitHub al repositorio y cambiamos a nuestra rama.
+
+2- Apt-get es similar al comando Git y se usa previo a darle una orden a la consola, por ejemplo instalar programas(apt-get install) o actualizar nuestros archivos(apt-get update).
+
+3- SU nos permite cambiar a SuperUsario colocando nuestra contraseña.
+
+4- Si,nos resulta familiar ya que utilizamos un procedimiento similar al usado en GIT, exceptuando los comandos "SU" y "APT".
