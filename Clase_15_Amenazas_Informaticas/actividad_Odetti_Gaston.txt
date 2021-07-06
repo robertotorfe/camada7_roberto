@@ -1,0 +1,9 @@
+1 - Mediante la máquina virtual y utilizando permisos de root, instalé git para el manejo de versiones y poder hacer la actividad de la clase del día
+
+2 - apt-get sirve para obtener una aplicación mediante la terminal
+
+3 - su sirve para acceder al modo de "super usuario"
+
+4 - De a poco va resultando más familiar, pero sigue siendo poco intuitivo y práctico
+
+
