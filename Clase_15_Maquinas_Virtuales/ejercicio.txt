@@ -1,0 +1,11 @@
+1- Describir con sus palabras lo que acaban de hacer
+Intalamos git en la maquina virtual desde el superusuario, luego nos movimos al usuario root y clonamos el repositorio correspondiente y nos movimos a la rama personal de cada uno, luego creamos este documento y subimos el ejercicio a la rama remota.
+
+2- Describir para que sirve apt-get
+Es el comando que se utiliza en debian para instalar programas linux, borrarlos, actualizar repositorios y actualizar el sistema.
+
+3- Describir para que sirve su
+El comando su sirve para cambiar el usuario actual a otro usuario desde la terminal de unix.
+
+4- Les resulto familiar esta forma de conectarse a un equipo.
+No.
