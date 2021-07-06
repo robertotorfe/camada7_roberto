@@ -1,0 +1,3 @@
+Apt-get descarga paquetes de datos.
+SU sirve para acceder al superusuario
+Cada vez mas familiar
