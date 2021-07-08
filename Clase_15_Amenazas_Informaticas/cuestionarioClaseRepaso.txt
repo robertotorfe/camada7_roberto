@@ -1,0 +1,4 @@
+1- Chequeamos si la MV tenia conexión a Internet, descargamos/instalamos Git con el comando apt-get install, clonamos el repositorio remoto en nuestra máquina virtual, cambiamos a nuestra rama y creamos un archivo.
+2- Sirve para administrar los paquetes, por ejemplo el apt-get install nos permite instalar programas.
+3- Sirve para cambiar de usuario, reemplaza las palabras "switch user".
+4- Si,me resulto familiar pero no muy fácil.
