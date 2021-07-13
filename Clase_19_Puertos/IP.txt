@@ -1,0 +1,17 @@
+
+
+Mi IP Pública es: 196.32.73.184
+Máscara de subred: 
+
+Mi IP Privada es:  192.168.0.227
+Máscara de subred: 255.255.255.0
+
+Dirección MAC: DC-F5-05-9A-B7-13
+
+Las clases de mis redes:
+
+Pública: CLASE C
+
+Privada: CLASE C
+
+Mis datos de fabricante obtenidos a partir de la MAC son"AzureWave Technology Inc."
