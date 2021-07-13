@@ -1,0 +1,16 @@
+-Dirección IP Pública y su Máscara de subred: 
+IP pública 152.170.160.96
+Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+
+-Dirección IP Privada y su Máscara de subred:
+Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.15(Preferido)
+Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+
+-Dirección MAC: 1C-1B-0D-7F-DC-BC
+
+-¿La IP pública y privada de qué clase son? 
+La IP publica es de clase B
+La IP privada es de clase C
+
+-¿ Qué información puedo obtener de la Máscara de red? , vamos a acceder a  https://macvendors.com/ y verificar que marca de placa de red tenemos.
+GIGA-BYTE TECHNOLOGY CO.,LTD.
