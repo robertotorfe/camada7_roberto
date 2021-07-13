@@ -1,0 +1,24 @@
+-----------------------------------------------------------------------------
+
+Vamos a investigar y conocer todas nuestras direcciones ! .
+
+Apliquemos los conocimientos adquiridos, para conocer nuestras direcciones .
+
+Que direcciones necesitamos averiguar :
+
+Dirección IP Pública y su Máscara de subred
+Dirección IP Privada y su Máscara de subred
+Dirección MAC
+
+-----------------------------------------------------------------------------
+
+IP publica 		170.51.105.30
+Subnet mask: 	255.255.255.0
+
+IP privada:		192.168.100.16
+Subnet mask: 	255.255.255.0
+
+Mac address:	E8-DE-27-17-BC-15
+MAC Address Vendor: 	TP-LINK TECHNOLOGIES CO.,LTD.
+
+-----------------------------------------------------------------------------
