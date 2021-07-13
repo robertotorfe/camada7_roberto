@@ -1,0 +1,10 @@
+IP Pública: 186.158.177.31
+Máscara de subred: 255.255.255.0 (no la encontré pero luego de leer un toque de teoría supuse que era esta)
+
+IP Privada: 192.168.0.113
+Máscara de subred: 255.255.255.0
+
+Dirección MAC: 4C-CC-6A-DD-6C-E6 (en macvendors.com me salio Micro-Star INTL CO., LTD.)
+
+La IP Pública es de clase B.
+La IP Privada es de clase C.
