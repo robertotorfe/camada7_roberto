@@ -1,0 +1,16 @@
+IP privada:  192.168.147.157
+máscara de subred privada: 255.255.255.0
+
+IP pública: 181.167.8.225
+máscara de subred pública: 255.255.255.0
+
+Dirección MAC: 74e5f9200a21
+
+¿ La IP pública y privada de qué clase son ? 
+La IP privada es clase C y la IP pública es clase B
+
+
+¿ Qué información puedo obtener de la Máscara de red? 
+Obtenemos el nombre del fabricante. En este caso el fabricante es Intel Corporate
+
+
