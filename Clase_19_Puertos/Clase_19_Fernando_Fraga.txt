@@ -1,0 +1,10 @@
+IP publica: 181.24.137.245
+Clase B.
+
+IP privada: 192.168.1.37
+Mascara Subred: 255.255.255 
+Clase C.
+
+
+Direccion MAC: 5C::51::4F::72::1B::31
+Marca de Placa de Red: Intel Corporate
