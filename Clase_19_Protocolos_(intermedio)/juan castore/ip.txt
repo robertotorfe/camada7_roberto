@@ -1,0 +1,10 @@
+ip privada: 192.168.0.11 clase C
+mascara de subred: 255.255.255.0
+
+
+ip publica: 168.194.206.116 clase B
+mascara de subred: 168.194.206.0/24
+         o esta    255.255.255.0 = 24
+
+direccion mac: 18-1D-EA-CC-96-5B
+marca: Intel Corporate
