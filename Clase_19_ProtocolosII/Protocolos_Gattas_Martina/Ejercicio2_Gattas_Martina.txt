@@ -1,0 +1,7 @@
+Dirección IP PRIVADA 192.168.0.2, máscara de subred 255.255.255.0, clase C
+
+Dirección IP PÚBLICA 201.190.254.249, máscara de subred 255.255.255.0, clase C
+
+Dirección MAC 3c:15:c2:b7:b7:42
+
+Marca de placa de red Apple, Inc.
