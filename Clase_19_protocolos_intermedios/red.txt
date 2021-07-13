@@ -1,0 +1,11 @@
+PUBLICA:
+ip: 181.164.149.121
+Clase b
+
+PRIVADA:
+ip: 192.168.5.54
+Clase c
+mascara de subred: 255.255.255.0
+
+MAC: d4:25:8b:57:28:12
+Intel Corporate
