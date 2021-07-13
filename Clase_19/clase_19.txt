@@ -1,0 +1,16 @@
+ip publica 181.46.211.77
+
+privada ipv4 192.168.0.7
+
+ipv6 2800:810:52c:189:b4ee:e226:3312:5550
+
+mac 255.255.255.0
+
+
+
+D0-37-45-23-48-51
+TP-LINK TECHNOLOGIES CO.,LTD.
+
+La ip publica es clase c
+
+la informacion que se puede obtener es el fabricante de la placa de red
