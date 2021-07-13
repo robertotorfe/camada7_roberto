@@ -1,0 +1,3 @@
+Dirección IP Pública y su Máscara de subred: 181.46.160.163 CLASE B
+Dirección IP Privada y su Máscara de subred: 192.168.0.2 CLASE C// 255.255.255.0
+Dirección MAC: 80-FA-5B-85-2F-64
