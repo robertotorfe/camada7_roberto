@@ -1,0 +1,8 @@
+
+
+Dirección IP privada: 192.168.0.41
+Subred: 255.255.255.0
+Dirección IP publica: 181.165.99.188 
+Subred: 255.255.255.0
+privada clase C
+publica clase b
