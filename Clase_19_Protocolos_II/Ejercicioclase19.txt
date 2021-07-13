@@ -1,0 +1,8 @@
+
+Tu dirección IP es 181.46.160.18 (pública)
+
+Mascara subred de la direccion IP Publica: Network:   10110101.00101110.10100000 .00000000 (Class B) 
+
+IP privada : Dirección IPv4: 192.168.0.21(Preferido)
+Máscara de subred : 255.255.255.0
+Direccion MAC: F8-B4-6A-E8-72-57
