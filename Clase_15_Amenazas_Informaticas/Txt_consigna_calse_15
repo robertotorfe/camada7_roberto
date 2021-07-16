@@ -1,0 +1,4 @@
+1.Proceso realizado: Se comprueba la conexión a internet desde la terminal virtual, se instala git, posteriormente se clona el repositorio remoto del profesor Roberto Camada7.
+2. El comando  apt-get, se utiliza para instalar programas en linux, borrarlos, actualizar los repositorios y actualizar el sistema desde la línea de comandos.
+3. El comando su  se utiliza para obtener permisos del root para realizar operaciones administrativas sin necesidad de salir del sistema y reingresar.
+4. Si resulta familiar la forma de conectarse, proceso similar al que se venido trabajando desde la terminal de gitbash desde Windows.
