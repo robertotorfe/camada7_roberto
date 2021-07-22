@@ -1,0 +1,7 @@
+Primero chequeamos que nuestra máquina virtual estuviese conectada a internet. Luego, instalamos git y chequeamos la versión a través del comando git --version. Finalmente, clonamos el repositorio remoto de la clase de Introudcción en la máquina.
+
+apt-get sirve para instalar, actualizar o borrar programas en linux
+
+su sirve para instertar comandos en otro usuario sin necesidad de cerrar sesión
+
+conectarnos a este equipo nos resultó bastante similar a la forma en la que solemos hacerlo.
