@@ -1,0 +1,4 @@
+Dirección MAC: 98:46:0a:93:3d:84
+Dirección IP publica:  2803:9800:98c0:8463:f471:b89:af8d:9b66
+Dirección IP privada: 192.168.100.7
+Mascara de subred: 255.255.255.0

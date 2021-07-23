@@ -1,4 +1,0 @@
-apt-get es el comando en sistemas derivados de debian para instalar programas en linux, borrarlos, actualizar repositorios y actualizar el sistema desde la linea de comandos.
-El comando su es utilizado para cambiar el usuario actual a otro usuario desde SSH.
-Si, me resulto familiar 
-Con los comandos ejecutados verificamos que la VM tenga conexion a internet, luego cambiamos de usuario al root, instalamos git, verificamos su version y correcta instalacion y clonamos el repositorio de la camada.
