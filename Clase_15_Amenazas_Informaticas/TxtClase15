@@ -1,0 +1,4 @@
+1.Se comprueba la conexion a internet desde la terminal virtual,se instala el git posteriormente se clona el repositorio remoto camada7.
+2.El comando apt-get se utiliza para instalar programas en linux, borrarlos, actualizar los repositorios y actualizar el sistema desde la linea de comandos.
+3. El comando su se utiliza para obtener permisos del root, para realizar operaciones administrativas sin necesidad de salir del sistema y reingresar.
+4. Si resulta familiar la forma de conectarse, proceso similiar al que se ha venido trabajando en gistbash desde la terminal de Windows.
