@@ -1,0 +1,5 @@
+1. Instalamos git, clonamos un repositorio, fuimos a la carpeta de la clase y creamos un archivo el cual editamos con nano
+2. Sirve para trabajar sobre los paquetes.
+3. Sirve para cambiar de usuario, son las iniciales en inglés
+4. No, es dificil acostumbrarse a linux y trabajar en un VM tan lenta,
+
