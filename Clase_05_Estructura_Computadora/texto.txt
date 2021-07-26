@@ -1,4 +1,4 @@
-mi compañera creo un repositorio en github
+mi compañero creo un repositorio en github
 me invito como colaborador
 luego creamos un repositorio local y lo vinculamos con el remoto con un readme.md
 clonamos el repositorio remoto
