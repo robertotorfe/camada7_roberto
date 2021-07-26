@@ -1,0 +1,18 @@
+Si dos personas estan trabajando en sus computadoras personales el mismo archivo y la persona A pushea primero, cuando la persona B quiera pushear, le saltará un error.
+En este caso, la persona B primero tendrá que bajar el archivo modificado por su compañero A haciendo:
+$ git pull origin main
+Aparecerá el siguiente mensaje:
+CONFLICTO (contenido): Conflicto de fusión en index.html
+
+Solución:
+Abrir el archivo en VS Code. 
+<<<<<<< HEAD (lo que la persona B agregó)
+=======
+>>>>>> 354864986 (lo que agregó la persona A)
+
+Ambas personas se deben poner de acuerdo qué código queda y cuál se borra.
+Luego:
+$  git add index.html
+$ git commit -m "resolví conflicto"
+$ git push origin main 
+
