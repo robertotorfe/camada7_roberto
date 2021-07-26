@@ -1,0 +1,8 @@
+cree un repositorio en github
+invite como colaborador a un compañero
+luego creamos un repositorio local y lo vinculamos con el remoto con un readme.md
+clonamos el repositorio remoto
+cada uno creo 3 archivos y luego los subimos al remoto
+clonamos y modificamos los archivos diferentes y volvimos a subir los archivos
+clonamos y modificamos el mismo archivo
+uno se encargo de resolver el conflicto
