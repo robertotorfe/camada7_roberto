@@ -1,0 +1,4 @@
+cremos un repositorio remoto en github
+cree 3 carpetas y mi compañero clono el repositorio en su computadora y creo 3 carpetras mas
+luego cada uno escribio sobre un mismo archivo
+nos salto error y con visual studio resolvimos el mismo uniendo lo que cada uno habia escrito
