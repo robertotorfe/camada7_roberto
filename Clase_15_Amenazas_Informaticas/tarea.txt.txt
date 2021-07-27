@@ -1,0 +1,20 @@
+apt-get
+Lo que hacemos con este comando es invocar a apt que es el package manager 
+de debian y decirle que vamos a importar e instalar un paquete desde un 
+repositorio
+
+su
+Nos permite cambiar de usuario para que con su root tengamos privilegios de 
+superusuario
+
+te resulto familiar esta forma de conectarte al equipo?
+Personalmente me resulto muy facil ya que hace tiempo que manejo maquinas 
+virtuales y bash. Sin embargo, como tengo linux, realiza la actividad de
+forma local
+
+describa con sus palabras lo que acaba de hacer
+Lo que has hecho en caso de usar una maquina virtual seria conectarme, 
+entrar a la terminal, checkear si tengo git (en caso de no tenerlo, cambiar 
+a root e instalarlo con apt-get), clonar el proyecto, hacer checkout en mi 
+sucursal, resolver el cuestionario, agregarlo, comitearlo y pushearlo sobre 
+mi rama.
