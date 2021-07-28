@@ -1,0 +1,13 @@
+1 - "Describan con sus lapabras lo que acaban de hacer"
+Primero validamos si la coneccion a internet funciona usando el comando ping.
+Despues switcheamos al usuario root e instalamos git desde la terminal.
+Despues clonamos el repositorio de la materia, y creamos un archivo txt en la carpeta de la clase 15.
+
+2 - "Describir para que sirve apt-get"
+El comando apt-get obtiene los paquetes necesarios para instalar o actualizar aplicaciones.
+
+3 - "Describir para que sirve su"
+El comando su sirve para cambiar de usuario en la terminal.
+
+4 - "Les resulto familiar esta forma de conectarse a un equipo?"
+No, es la primera vez que hago esto en la terminal de una VM.
