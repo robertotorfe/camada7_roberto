@@ -1,0 +1,7 @@
+ip publica:  186.158.177.143
+marcara de subred: 186.158.177.0/24
+
+Direccion mac: 40-8D-5C-59-4F-6D
+
+ip privada: 192.168.100.18(Preferido)
+mascara de subred: 255.255.255.0
